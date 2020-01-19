@@ -1,0 +1,1 @@
+no se pueden usar los servicios de Google Speech Recognition; recognition connection failed: [Errno -3] Temporary failure in name resolution

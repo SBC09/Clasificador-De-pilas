@@ -1,0 +1,25 @@
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	new file:   ClasificadorPilas.py
+	new file:   Correcto.wav
+	new file:   Medir.py
+	new file:   Medir.pyc
+	new file:   Medir2.py
+	new file:   Pilas.txt
+	new file:   Pilas.wav
+	new file:   __pycache__/Medir2.cpython-35.pyc
+	new file:   audio.py
+	new file:   audio.pyc
+	new file:   clasificador.py
+	new file:   clasificador.pyc
+	new file:   git
+	new file:   incorrecto.wav
+	new file:   medidas.txt
+	new file:   salida.py
+	new file:   salida2.py
+	new file:   salidaclasificacion.txt
+
